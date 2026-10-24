@@ -1,0 +1,12 @@
+{
+  "name": "درمان‌یار | مدیریت کلینیک",
+  "short_name": "درمان‌یار",
+  "description": "مدیریت پرونده، درمان، مالی و جلسات کلاینت‌ها",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b1d45",
+  "lang": "fa",
+  "dir": "rtl",
+  "orientation": "any"
+}
